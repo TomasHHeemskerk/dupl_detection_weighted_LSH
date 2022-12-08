@@ -1,5 +1,5 @@
 # Duplicate Detection using Weighted Locality Sensitive Hashing (WLSH)
-This repository describes a duplicate detection algorithm that makes use of pre-processing steps (cleaning & reading of data) and a Weighted Locality Sensitive Hashing (WLSH) procedure.
+This repository describes a duplicate detection algorithm that makes use of pre-processing steps (cleaning & reading of data) and a Weighted Locality Sensitive Hashing (WLSH) procedure to detect product duplicates in a dataset of 1624 TV products from 4 different webshops.
 
 ## Data
 The data used comes from 1624 TV products from 4 different webshops. Relevant data points include modelID, shop, product title and a features map with product descriptions
